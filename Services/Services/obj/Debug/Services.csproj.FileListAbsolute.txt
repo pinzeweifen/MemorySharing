@@ -1,0 +1,6 @@
+E:\vspro\Services\Services\bin\Debug\Services.exe
+E:\vspro\Services\Services\bin\Debug\Services.pdb
+E:\vspro\Services\Services\obj\Debug\Services.csprojAssemblyReference.cache
+E:\vspro\Services\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+E:\vspro\Services\Services\obj\Debug\Services.exe
+E:\vspro\Services\Services\obj\Debug\Services.pdb
