@@ -27,7 +27,6 @@ namespace Services
                 var msc = new MemoryClient("zzzz");
                 Console.WriteLine(msc.Read("z"));
             });
-
             Console.Read();
 
         }

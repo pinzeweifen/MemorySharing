@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Memory
 {
-    public class MemorySharingClear
+     class MemorySharingClear
     {
         static bool isInit = false;
         static List<string> list = new List<string>();

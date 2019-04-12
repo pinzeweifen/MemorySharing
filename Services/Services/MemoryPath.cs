@@ -4,7 +4,7 @@ using System.Management;
 
 namespace Memory
 {
-    public static class MemoryPath
+     static class MemoryPath
     {
         static string _rootPath;
         public static string RootPath
