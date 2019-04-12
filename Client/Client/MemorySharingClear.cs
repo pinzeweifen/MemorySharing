@@ -13,6 +13,9 @@ namespace Memory
             if (!isInit)
             {
                 AppDomain.CurrentDomain.ProcessExit += ProcessExit;
+                AppDomain.CurrentDomain.DomainUnload += ProcessExit;
+                AppDomain.CurrentDomain.UnhandledException += ProcessExit;
+
                 isInit = true;
             }
 
